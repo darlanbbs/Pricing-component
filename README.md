@@ -11,4 +11,4 @@ Desafio Pego do https://www.frontendmentor.io/challenges
 # Tecnologias usadas
 
 ## Front end
-- HTML / CSS / BoostrStrap
+- HTML / CSS / Javascript / BoostrStrap
